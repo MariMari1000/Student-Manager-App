@@ -65,7 +65,7 @@
 <h2>Testing</h2>
 
 <p>The application includes a 
-<code>TestRunner</code> class with test cases to verify the functionality of the
+<pre><code>TestRunner</code></pre> class with test cases to verify the functionality of the
 <code>StudentManager</code> class. Run the test cases to ensure that the application behaves as expected under various scenarios.</p>
 
 
