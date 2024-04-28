@@ -68,8 +68,6 @@
 class with test cases to verify the functionality of the
 <code>StudentManager</code> class. Run the test cases to ensure that the application behaves as expected under various scenarios.</p>
 
-
-
 </body>
 </html>
 
